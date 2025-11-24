@@ -103,7 +103,7 @@ The dataset (`laptop_data.csv`) contains **1303 rows** and **12 columns** with l
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/Laptop-Price-Predictor.git
+git clone https://github.com/Rohitranelab/Laptop-Price-Predictor.git
 cd Laptop-Price-Predictor
 ```
 ### **2. Install Required Libraries**
